@@ -1,23 +1,23 @@
-# SeuNome
+# wHenriqueLSH
 
-### 👨‍💻 21 anos | Estudante de Engenharia de Software | CEO da VoxyMC e WHMS
+### 👨‍💻 21 years old | Software Engineering Student | CEO of [VoxyMC](https://voxymc.net)
 
-Desenvolvedor com paixão por aprender e evoluir constantemente no mundo da programação. Atualmente cursando Engenharia de Software.
+* Developer with a passion for learning and constantly evolving in the programming world.
 
-## Habilidades
+## Skills
 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logoColor=white)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/pt-br/cpp/cpp/?view=msvc-170)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![NoSQL](https://img.shields.io/badge/NoSQL-003545?style=for-the-badge&logoColor=white)](https://www.oracle.com/br/database/nosql/what-is-nosql/)
 
-## Sobre Mim
+## About Me
 
-CEO das empresas **VoxyMC** e **WHMS**. Atualmente cursando Engenharia de Software e buscando sempre me aprimorar no desenvolvimento de software e tecnologias inovadoras.
+CEO of **VoxyMC**. Currently studying Software Engineering and always striving to improve in software development and innovative technologies.
 
-## Contato
+## Contact
 
-- Discord: `seuDiscord#1234`
-- [GitHub](https://github.com/seu-username)
+- Discord: `whenriquelsh`
+- E-mail: `walmorhenrique.br@gmail.com`
