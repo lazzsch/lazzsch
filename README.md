@@ -20,7 +20,7 @@ CEO of **VoxyMC**. Currently studying Software Engineering and always striving t
 
 ## Contact
 
-- Discord: `wHlzz_`
+- Discord: `lazzsch`
 - E-mail: `walmorhenrique.br@gmail.com`
 
   
