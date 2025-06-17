@@ -1,4 +1,4 @@
-# wHlzz
+# LazzSch
 
 ### 👨‍💻 21 years old | Software Engineering Student | CEO of [VoxyMC](https://voxymc.net)
 
