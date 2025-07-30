@@ -1,6 +1,6 @@
 # LazzSch
 
-### 👨‍💻 21 years old | Software Engineering Student | CEO of [VoxyMC](https://voxymc.net)
+### 👨‍💻 22 years old | Software Engineering Student | CEO of [VoxyMC](https://voxymc.net)
 
 * Developer with a passion for learning and constantly evolving in the programming world.
 
