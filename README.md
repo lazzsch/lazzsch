@@ -55,5 +55,5 @@ I am the **CEO of [VoxyGames](https://voxymc.net)**, a company focused on develo
 
 ## 📬 Contact  
 
-- 🌐 Discord: **`_wlazz`**  
+- 🌐 Discord: **`lazzsch`**  
 - 📧 Email: **walmorhenrique.br@gmail.com**  
